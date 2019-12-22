@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HFS Package Helper</string>
+    <string name="placeholderBox">COLOR</string>
+    <string name="placeholderBarcode">000000</string>
+    <string name="barcode_desc">Locker Barcode</string>
+
+    <string name="errWeirdStart">Um… you\'ve somehow started this app in a weird way…</string>
+    <string name="errInvalidMsg">Message provided was not a valid HFS Package notification</string>
+</resources>
