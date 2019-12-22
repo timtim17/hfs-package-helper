@@ -1,6 +1,7 @@
 # HFS Package Helper
 
 ![Package Lockers](https://hfs.uw.edu/getmedia/3523ef59-e4d3-4e69-8742-defd61d2431d/PackageLockers.jpg.aspx)
+Image: [UW Housing & Food Services](https://hfs.uw.edu/Live/Housing-Locations/Willow-Hall)
 
 [UW's Housing & Food Services](https://hfs.uw.edu) sends notifications when packages arrive to their
 Package Locker system. From there packages can be picked up using a handy barcode. These barcodes
