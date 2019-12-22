@@ -16,4 +16,4 @@ This app parses those text messages and pulls the relevant information. It gener
 to scan, as well as a small visual to identify the correct locker. Notifications can be shared easily
 from a text into the app.
 
-![Screenshot](.docs/screenshot.png)
+![Screenshot](.docs/screenshot1.png)
