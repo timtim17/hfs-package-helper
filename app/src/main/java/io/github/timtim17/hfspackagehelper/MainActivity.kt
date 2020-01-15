@@ -40,8 +40,8 @@ class MainActivity : AppCompatActivity() {
                                 resources.getColor(colorId, theme) else resources.getColor(colorId)
                             colorBoxView.setBackgroundColor(color)
                             val colorText = findViewById<TextView>(R.id.boxName)
-                            colorText.text = boxColor
-                            colorText.setTextColor(resources.getColor(if (boxColor == "No Stripe") android.R.color.black else android.R.color.white))
+                            colorText.text = if (boxColor == "No") "No Color" else boxColor
+                            colorText.setTextColor(resources.getColor(if (boxColor == "No") android.R.color.black else android.R.color.white))
                             val imageView = findViewById<ImageView>(R.id.barcode)
                             imageView.setImageBitmap(generateBarcode(barcode))
                             val barcodeText = findViewById<TextView>(R.id.barcodeText)
